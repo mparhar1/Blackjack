@@ -12,3 +12,7 @@ A hand's value is the sum of the cards in the hand. An Ace has a value of 11 unl
   2) One of the dealer's two starting cards will remain face down until it is time to reveal after the player ends their turn
   3) The dealer will hit until they reach 17
   4) Both the player and dealer can bust; however, if the player busts, they automatically lose, regardless of the dealer's hand
+
+# Future Steps
+- Add a feature that allows players to select the number of decks to be used
+- Add a database system to record and track the statistics/probabilities of the player's hand and the game
