@@ -126,6 +126,7 @@ while True:
           
     # Rules
     print("\nRULES:\n1) Closest hand to 21 without going over wins!\n2) All face cards are worth 10\n3) Dealer will hit until they reach 17\n4) Aces count as 1 or 11")
+    
     # Prepare Deck
     deck = Deck()
     deck.shuffle()
